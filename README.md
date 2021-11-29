@@ -31,7 +31,7 @@ Now Connecting Database
 
 After Creating Database,
 
-- **9th Step:** Open a browser and go to URL "http://localhost/mini/" for **Guest House Related Service**
+- **9th Step:** Open a browser and go to URL "http://localhost/GuestHouse/" for **Guest House Related Service**
 - **10th Step:** Open a browser and go to URL "http://localhost/MarketShop/" for **Market House Related Service**
 - **11th Step:** Open a browser and go to URL "http://localhost/Landscape/" for **Landscape Related Service**
 
