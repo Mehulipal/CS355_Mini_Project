@@ -1,7 +1,7 @@
 # CS355_Mini_Project
 
 [Report](https://docs.google.com/document/d/15Rd2eKwp4C4y-Z0C8kYFZRws0Yv6o9zlW0nyoor269U/edit?usp=sharing) <br /> 
-[Demo Video](https://drive.google.com/file/d/1poRH4IyNf_sbb4NMw9iq-1fpz9WsCn5W/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1e8Ou0r7Dmp0iqT_xlOmBXVqWnSbS0vAY/view?usp=sharing)
 
 
 ## Problem Statement
